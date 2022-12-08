@@ -25,14 +25,14 @@ class LoginPage extends StatefulWidget{
                 ),
                 SizedBox(height: 10),
                 //hello alumnos
-                Text('Hola Alumnos',
+                Text('Conectando Mundos ',
                style: GoogleFonts.bebasNeue(
-                fontSize: 80,
+                fontSize: 73,
                ),
                 ),
                 SizedBox(height: 10),
                 Text(
-                  'Bienvenidos alumn@s',
+                  'Bienvenidos "Conociendo Mundo"',
                   style: TextStyle(
                     fontSize: 20,
                   ),
